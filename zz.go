@@ -1,8 +1,6 @@
-// zz is the main package in NT (For now).
-// It's just a bunch of functions over the
-// integers. There will probably be other
-// packages or modules or something that
-// implement the real and complex stuff.
+// zz is the main package in NT (For now). It's just a bunch of functions over
+// the integers. There will probably be other packages or modules or something
+// that implement the real and complex stuff.
 package main
 
 import (
